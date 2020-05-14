@@ -29,7 +29,7 @@ function Header(){
       pahar = "PM"
     }
     return (
-      <h1> hi good {timeOfDay}, Today is {dayList[day]}, and Current time is : {hour} : {min} : {sec} {pahar}  </h1>
+      <h1> hi good {timeOfDay}, Today is {dayList[day]}, and Current time is : {hour} : {min} : {sec} {pahar} aur kya haal hai </h1>
       
 )
 
